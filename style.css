@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: serif;
+}
+body{
+    padding: 8% 0% 0% 4%;
+}
+body{
+    transition: background-color 0.3 ease;
+}
+.dark-mode{
+    background-color: black;
+    color: #fff;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
